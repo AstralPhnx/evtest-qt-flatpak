@@ -19,7 +19,6 @@
 
 #include <assert.h>
 #include <algorithm>
-#include <cstdint>
 #include <map>
 #include <vector>
 #include <array>
